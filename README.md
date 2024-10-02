@@ -5,5 +5,6 @@ This is the beginning of my journey into Python and Programming, this is a recor
 **Content**
 1. Jupyter Notebooks
    * [Week One](https://github.com/tobybeevers/ICL-2010-Introduction-to-Data-Analytics/tree/main/Jupyter%20Notebooks/Week%20One)
+   * [Week Two](https://github.com/tobybeevers/ICL-2010-Introduction-to-Data-Analytics/tree/main/Jupyter%20Notebooks/Week%20Two)
   
 2. 
